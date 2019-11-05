@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>437022911113-c4p3jpr48m4olbl1n91uho8dnjpbafkr.apps.googleusercontent.com</client_id>
+        <client_secret>/5P3Si9xXIypsfwBdBYPpVu8qV+N0Cv5ezGkmvhMoxg=</client_secret>
+        <client_uuid>c6bc9154db8d7700903cdc965e961970</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>Google Sheets </name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://empbarasu.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-22 09:20:06</sys_created_on>
+        <sys_id>07bcd154db8d7700903cdc965e961943</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Google Sheets </sys_name>
+        <sys_package display_value="Discovery Lab Session" source="x_snc_disco_lab">02376e30dba72b00903cdc965e9619ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Discovery Lab Session">02376e30dba72b00903cdc965e9619ca</sys_scope>
+        <sys_update_name>oauth_entity_07bcd154db8d7700903cdc965e961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-22 09:25:22</sys_updated_on>
+        <token_url>https://accounts.google.com/o/oauth2/v2/auth</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

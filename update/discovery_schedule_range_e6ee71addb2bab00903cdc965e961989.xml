@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="discovery_schedule_range">
+    <discovery_schedule_range action="INSERT_OR_UPDATE">
+        <dscheduler display_value="Lab Session1">e7be3d6ddb2bab00903cdc965e96197c</dscheduler>
+        <range display_value="LAB1">10ee3d6ddb2bab00903cdc965e961982</range>
+        <sys_class_name>discovery_schedule_range</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-10 19:21:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>e6ee71addb2bab00903cdc965e961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LAB1.Lab Session1</sys_name>
+        <sys_package display_value="Discovery Lab Session" source="x_snc_disco_lab">02376e30dba72b00903cdc965e9619ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Discovery Lab Session">02376e30dba72b00903cdc965e9619ca</sys_scope>
+        <sys_update_name>discovery_schedule_range_e6ee71addb2bab00903cdc965e961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-10 19:21:17</sys_updated_on>
+    </discovery_schedule_range>
+</record_update>
